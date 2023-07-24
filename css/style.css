@@ -1,0 +1,42 @@
+body{
+    background-image:url("../images/abcde.png");
+    background-size:100%;
+  }
+
+
+.container{
+height: 700px;
+}
+.card{
+  width:400px;
+  background-color:rgba(0,0,0,0.4); /*r-red g-green b-blue a-alpha(opacity) */
+}
+.card-header>h3{
+  color:white;
+}
+.input-group>span{
+  background-color:orangered;
+  border:0px ;
+}
+.btn{
+  background-color:orangered;
+  border:0px;
+  font-style: bold;
+}
+
+.btn:hover{
+  background-color: blueviolet!important;
+}
+.card-footer>a{
+  color:orangered;
+}
+.nav-link{
+    color:orangered;
+}
+.navbar{
+    opacity: 0.5;
+}
+.nav-link{
+  color: orangered !important;
+
+}
